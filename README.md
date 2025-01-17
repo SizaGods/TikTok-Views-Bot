@@ -6,7 +6,7 @@ This Python script is designed to send simulated view requests to the TikTok API
 
 ## Requirements
 
-The script requires Python 3.7 or higher and the following libraries:
+The script requires Python 3.7 or higher and the following libraries: 
 
 - `aiohttp`: For making asynchronous HTTP requests.
 - `aiofiles`: For asynchronously reading files (like the proxies list).
